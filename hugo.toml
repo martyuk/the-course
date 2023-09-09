@@ -1,12 +1,12 @@
 baseURL = 'http://learn.martyuk.com/'
 languageCode = 'ru-RU'
-title = 'а название-то и не придумал'
+title = 'турбокреатив'
 theme = 'no-style'
-description = 'курс креативщика'
+description = 'начни делать лучшие проекты в своей карьере'
 
-[params]
+[params.meta]
   author = 'Петр Мартюк'
-  footer = 'kek'
+  favicon = false
 
 [imaging]
   hint = 'photo'
