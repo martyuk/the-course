@@ -1,4 +1,4 @@
-baseURL = 'http://learn.martyuk.com/'
+baseURL = 'http://turbo.martyuk.com/'
 languageCode = 'ru-RU'
 title = 'турбокреатив'
 theme = 'no-style'
