@@ -1,12 +1,11 @@
 baseURL = 'http://turbo.martyuk.com/'
 languageCode = 'ru-RU'
-title = 'турбокреатив'
+title = 'турбокреативный турбоинкубатор'
 theme = 'no-style'
-description = 'начни делать лучшие проекты в своей карьере'
+description = 'начните создавать лучшие проекты в своей карьере'
 
 [params.meta]
   author = 'Петр Мартюк'
-  favicon = false
 
 [imaging]
   hint = 'photo'
