@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'http://learn.martyuk.com/'
 languageCode = 'ru-RU'
-title = 'страничка'
+title = ''
 theme = 'no-style'
