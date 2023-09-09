@@ -45,3 +45,8 @@ hr {
   border: none;
   height: 3px;
 }
+
+img {
+  border-style: none;
+  max-width: 16rem;
+}

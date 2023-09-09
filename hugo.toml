@@ -1,4 +1,16 @@
 baseURL = 'http://learn.martyuk.com/'
 languageCode = 'ru-RU'
-title = ''
+title = 'а название-то и не придумал'
 theme = 'no-style'
+description = 'курс креативщика'
+
+[params]
+  author = 'Петр Мартюк'
+  footer = 'kek'
+
+[imaging]
+  hint = 'photo'
+  quality = 75
+  resampleFilter = 'box'
+
+

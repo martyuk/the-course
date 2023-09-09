@@ -1,4 +1,4 @@
 +++
 menu = 'main'
-title = 'About'
+title = 'об авторе'
 +++
