@@ -1,6 +1,7 @@
 +++
 menu = 'main'
-title = 'об авторе'
+title = 'автор'
+weight = '5'
 +++
 
 второй самый креативный человек в России [по версии АКАР](https://ad-peak.ru/creative/person/380246) с более, чем 100 наградами в европейских и азиатских фестивалях креативности. один из 20 людей из России, которые получили награду за креатив в D&AD, и один из 5 людей, которые выиграли гран-при Eurobest. основатель [ТО «Любители»](https://withlove.company).
@@ -30,7 +31,7 @@ title = 'об авторе'
   - помогал любимым клиентам достигать бизнес-показателей при помощи коммуникационных инструментов. отвечал за креативный продукт от идеи до финальной реализации.
   - _клиенты_: Беру, Яндекс.Маркет, Pedigree, Додо Пицца и Яндекс.Музыка.
   - _Беру_. разработали коммуникационную платформу,
-        чтобы бренд всегда и везде был одинаково классным и узнаваемым ([Bloomber](https://www.bloomberg.com/news/articles/2018-10-24/the-google-of-russia-takes-new-stab-at-being-its-amazon-too), [РБК](https://www.rbc.ru/finances/27/04/2018/5ae332279a79477da3f810a1)).
+        чтобы бренд всегда и везде был одинаково классным и узнаваемым ([Bloomberg](https://www.bloomberg.com/news/articles/2018-10-24/the-google-of-russia-takes-new-stab-at-being-its-amazon-too), [РБК](https://www.rbc.ru/finances/27/04/2018/5ae332279a79477da3f810a1)).
   - _Яндекс.Музыка_. вместе с WWF, Universal Music и Мастерской Ивана Дорна запустили Birds Records — музыкальный лейбл, который монетизирует голоса птиц через стриминг [Meduza](https://meduza.io/feature/2019/10/10/my-govorim-vam-cherez-ivana-nas-ochen-malo-nam-ochen-slozhno),  [The Village](https://www.the-village.ru/village/city/news-city/364281-dich), [Wonderzine](https://www.wonderzine.com/wonderzine/life/life/246411-birds-records), [Комсомольская Правда](https://www.kp.ru/daily/27053.5/4120442/)).
   - _Додо Пицца_. со специалистами по нейросетям из МФТИ и Сколтеха создали Опенсорс пиццу, и выложили исходный код на GitHub ([TJournal](https://tjournal.ru/tech/120179-dodo-picca-sozdala-piccu-s-pomoshchyu-neyrosetey-i-opublikovala-ishodnyy-kod-v-otkrytom-dostupe), [Rusbase](https://rb.ru/story/dodo-pizza-ai/), [N+1](https://vk.com/wall-91933860_264687)).
 

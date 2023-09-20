@@ -1,13 +1,27 @@
+@media (min-width: 768px) 
+{
+   html
+   {
+       font-size: 24px; 
+   }
+}
+
+@media (max-width: 767px) 
+{
+   html
+   {
+       font-size: 15px; 
+   }
+}
+
 html {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 24px;
   font-weight: 900;
   line-height: 1.25;
 
-  width: 100%;
   max-width: 32rem;
   margin: auto;
-  padding: 1em;
+  padding: 1rem;
 }
 
 h1 {
@@ -58,7 +72,6 @@ ul ul, ol ol {
 a {
   background-color: transparent;
   text-decoration: none;
-  text-decoration: underline;
   text-decoration-thickness: 3px;
   text-underline-offset: 2px;
 }
@@ -88,7 +101,6 @@ h2 a:visited {
 h3 a {
   background-color: transparent;
   text-decoration: none;
-  text-decoration: underline;
   text-decoration-thickness: 3px;
   text-underline-offset: 2px;
   color: #0000EE;
@@ -164,10 +176,6 @@ div video {
 
 .menu div {
   margin-right: 1rem;
-}
-
-#lang-switcher a {
-  text-decoration: none;
 }
 
 #lang-switcher {
