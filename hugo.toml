@@ -1,15 +1,29 @@
 baseURL = 'http://turbo.martyuk.com/'
-languageCode = 'ru-RU'
-title = 'турбокреативный турбоинкубатор'
 theme = 'no-style'
-description = 'начните создавать лучшие проекты в своей карьере'
 
-[params.meta]
-  author = 'Петр Мартюк'
+defaultContentLanguage = 'ru'
+defaultContentLanguageInSubdir = true
+[languages]
+  [languages.ru]
+    contentDir = 'content/ru'
+    disabled = false
+    languageCode = 'ru-RU'
+    languageDirection = 'ltr'
+    languageName = 'Russian'
+    title = 'турбокурс по турбокреативу'
+    weight = 1
+    author = 'Петр Мартюк'
+  [languages.en]
+    contentDir = 'content/en'
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'turbocourse on turbocreative'
+    weight = 2
+    author = 'Petr Martyuk'
 
 [imaging]
   hint = 'photo'
   quality = 75
   resampleFilter = 'box'
-
-

@@ -1,0 +1,6 @@
+{{- $time := .Get "time" -}}
+{{- $link := .Get "link" -}}
+<div><video width=100% controls preload="metadata">
+    <source src="{{ $link }}#t={{ with $time }}{{ . }}{{ else }}0.1{{ end }}" type="video/mp4">
+    тут должно было быть видео  
+</video></div>
