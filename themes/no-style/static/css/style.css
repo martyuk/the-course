@@ -10,36 +10,52 @@
 {
    html
    {
-       font-size: 15px; 
+       font-size: 20px; 
    }
 }
 
 html {
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: 900;
-  line-height: 1.25;
+  font-family: "Helvetica Neue", sans-serif;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.012em;
 
   max-width: 32rem;
   margin: auto;
   padding: 1rem;
+
+  word-wrap: break-word;
+  hyphens: manual;
 }
 
+/*
+h1, h2, h3, h4 {
+
+  font-weight: 500;
+  line-height: 1.5;
+  font-size: 34px;
+  margin-top: 3rem;
+} */
+
 h1 {
-  font-size: 2rem;
-  text-transform: uppercase;
+  font-size: 2.2rem;
+  line-height: 1.2;
   margin-top: 2rem;
   margin-bottom: 0px;
 }
 
 h2 {
-  font-size: 1.75rem;
+  font-size: 1.8rem;
+  line-height: 1.3;
+  font-weight: 600;
   margin-top: 3rem;
   margin-bottom: 0px;
-  text-transform: uppercase;
 }
 
 h3 {
   font-size: 1.2rem;
+  line-height: 1.6;
+  font-weight: 500;
   margin-top: 2rem;
   margin-bottom: 0px;
   text-transform: none;
@@ -47,6 +63,7 @@ h3 {
 
 h4 {
   font-size: 1.1rem;
+  line-height: 1.1;
   margin-top: 1.5rem;
   margin-bottom: 0px;
   text-transform: none;
@@ -54,7 +71,6 @@ h4 {
 
 p {
   margin-top: 1rem;
-  margin-bottom: 1rem;
 }
 
 li {
@@ -118,7 +134,7 @@ del {
 
 blockquote {
   font-size: 1.3rem;
-  font-weight: 500;
+  font-weight: 400;
   border-left: solid 3px;
   padding: 0rem;
   margin: 0px;

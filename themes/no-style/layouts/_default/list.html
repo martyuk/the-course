@@ -12,8 +12,9 @@
   {{ range .Pages.ByWeight.Reverse }}
 
     <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-
-    <p> {{ .Description }} </p>
+    {{ if isset .Params "description" }}
+      <p> {{ .Description }} </p>
+    {{ end }}
 
     {{ if isset .Params "preview" }}
       <img src="{{ .Params.Preview }}">
