@@ -6,9 +6,9 @@ weight ='1'
 
 # Petr Martyuk
 
-### physicist by education, creative person by nature, and creative director by trade. award winner, squash player, and proud author of several telegram channels.
+physicist by education, creative person by nature, and creative director by trade. award winner, squash player, and proud author of several telegram channels.
 
-### Petr launches his own projects, develops advertising campaigns and brand platforms. from time to time Petr writes about himself in the third person.
+Petr launches his own projects, develops advertising campaigns and brand platforms. from time to time Petr writes about himself in the third person.
 
 ## [Birds Records](/ru/projects/birds-records/)
 
