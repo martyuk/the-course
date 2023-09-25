@@ -1,5 +1,5 @@
 +++
 menu = 'main'
 title = 'заметки'
-weight = '3'
+weight = '4'
 +++

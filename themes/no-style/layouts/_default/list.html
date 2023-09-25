@@ -11,7 +11,12 @@
   {{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
   {{ range .Pages.ByWeight.Reverse }}
 
-    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    {{ if ne .Params.More "no" }}
+      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    {{ else }}
+      <h2>{{ .Title }}</h2>
+    {{ end }}
+    
     {{ if isset .Params "description" }}
       <p> {{ .Description }} </p>
     {{ end }}
