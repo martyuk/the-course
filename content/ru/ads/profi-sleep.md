@@ -1,18 +1,18 @@
 +++
 title = "профи на ночь глядя"
 description = "мы превратили монотонные звуки работы профи в слипкасты. кроме музыки и голоса диктора, вам будут помогать уснуть говорящие деревья, громко думающие камни и жужжащие шмели."
-video = "http://universe.martyuk.com/video/profi-teaser.webm"
+youtube = "HaLPSpa4z2k"
 weight = "96"
 +++
 
-{{< video link="http://universe.martyuk.com/video/profi-teaser.webm" >}}
+{{< youtube id="HaLPSpa4z2k" >}}
 
-{{< video link="http://universe.martyuk.com/video/profi-haircut.webm" >}}
+{{< youtube id="ooB11iQxCNo" >}}
 
-{{< video link="http://universe.martyuk.com/video/profi-clean.webm" >}}
+{{< youtube id="7vZzfp7yr40" >}}
 
-{{< video link="http://universe.martyuk.com/video/profi-garden.webm" >}}
+{{< youtube id="AT8G-f05XTk" >}}
 
-{{< video link="http://universe.martyuk.com/video/profi-paint.mp4" >}}
+{{< youtube id="n88IEEVnXaM" >}}
 
-{{< video link="http://universe.martyuk.com/video/profi-accountant.webm" >}}
+{{< youtube id="lhVk4_3qsUo" >}}

@@ -1,6 +1,6 @@
 +++
 title = "шоколадные грезы"
-video = "http://universe.martyuk.com/video/mcdo-dessert.m4v"
+youtube = "6PJ2mb9ujF4"
 more = "no"
-weight = "87"
+weight = "86"
 +++

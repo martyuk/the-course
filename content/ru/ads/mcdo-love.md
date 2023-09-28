@@ -1,6 +1,6 @@
 +++
 title = "радость быть с вами"
-video = "http://universe.martyuk.com/video/mcdo-love.m4v"
+youtube = "3PD8423ck94"
 more = "no"
 weight = "93"
 +++

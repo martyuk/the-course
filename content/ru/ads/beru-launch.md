@@ -1,6 +1,6 @@
 +++
 title = "стикеры на скидки"
-video = "http://universe.martyuk.com/video/beru-1.m4v"
+youtube = "BGEW8jeJ1HU"
 more = "no"
 weight = "90"
 +++

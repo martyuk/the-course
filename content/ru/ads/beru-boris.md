@@ -1,12 +1,12 @@
 +++
 title = "поделки из картона"
 description = "во время самоизоляции мы учили людей собирать из доставочных коробок все, что нужно для удаленой работы."
-video = "http://universe.martyuk.com/video/beru-boris-1.m4v"
+youtube = "FUZ4s50-1ZQ"
 weight = "95"
 +++
 
-{{< video link="http://universe.martyuk.com/video/beru-boris-1.m4v">}}
+{{< youtube id="FUZ4s50-1ZQ">}}
 
-{{< video link="http://universe.martyuk.com/video/beru-boris-2.m4v">}}
+{{< youtube id="WYBGmGufHzs">}}
 
-{{< video link="http://universe.martyuk.com/video/beru-boris-3.m4v">}}
+{{< youtube id="H3VvxMUgmfk">}}

@@ -1,6 +1,6 @@
 +++
 title = "продуктолог"
-video = "http://universe.martyuk.com/video/beru-2.m4v"
+youtube = "4v2Tdn0vsT0"
 more = "no"
 weight = "89"
 +++

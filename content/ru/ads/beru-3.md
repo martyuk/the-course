@@ -1,6 +1,6 @@
 +++
 title = "где-то радуется сотрудник Беру"
-video = "http://universe.martyuk.com/video/beru-3.m4v"
+youtube = "Fq95MxR6J1k"
 more = "no"
 weight = "88"
 +++
