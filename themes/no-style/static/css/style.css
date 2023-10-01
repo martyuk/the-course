@@ -1,15 +1,11 @@
-@media (min-width: 768px) 
-{
-   html
-   {
+@media (min-width: 768px) {
+   html {
        font-size: 24px; 
    }
 }
 
-@media (max-width: 767px) 
-{
-   html
-   {
+@media (max-width: 767px) {
+   html {
        font-size: 20px; 
    }
 }
@@ -18,14 +14,14 @@ html {
   font-family: "Helvetica Neue", sans-serif;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 0.012em;
+  letter-spacing: 0.012rem;
+}
 
+body {
   max-width: 32rem;
   margin: auto;
   padding: 1rem;
-
   word-wrap: break-word;
-  hyphens: manual;
 }
 
 /*
@@ -181,8 +177,9 @@ img {
   border:0;
 }
 
-div video {
+div video, .kinescope {
   margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 .menu {

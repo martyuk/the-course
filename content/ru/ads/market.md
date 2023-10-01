@@ -1,11 +1,11 @@
 +++
 title = "нельзя просто так взять"
-youtube = "bAqXQq6-MrI"
+kinescope = "pchCCXfx1iwavK944uHUpD"
 weight = "85"
 +++
 
-{{< youtube id="bAqXQq6-MrI">}}
+{{< kinescope id="4rc284PJpJGsHYTtCY6N7W" >}}
 
-{{< youtube id="uwT1ljwtd5s">}}
+{{< kinescope id="i8VFDbstYKVAdMm68GjqNc" >}}
 
-{{< youtube id="SQ98jsual4k">}}
+{{< kinescope id="vFnk4468TKfhiEVqBv2aar" >}}

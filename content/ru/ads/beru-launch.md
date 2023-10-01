@@ -1,6 +1,6 @@
 +++
 title = "стикеры на скидки"
-youtube = "BGEW8jeJ1HU"
+kinescope = "cTCagKNXhTFr93bjSTfVPs"
 more = "no"
-weight = "90"
+weight = "86"
 +++

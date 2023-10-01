@@ -1,18 +1,18 @@
 +++
 title = "профи на ночь глядя"
-description = "мы превратили монотонные звуки работы профи в слипкасты. кроме музыки и голоса диктора, вам будут помогать уснуть говорящие деревья, громко думающие камни и жужжащие шмели."
-youtube = "HaLPSpa4z2k"
-weight = "96"
+description = "вместе с Профи мы превратили монотонные звуки работы профи в слипкасты. кроме музыки и голоса диктора, слушателям помогали засыпать говорящие деревья, громко думающие камни и жужжащие шмели ([SRSLY](https://web.archive.org/web/20231001090919/https://srsly.ru/article/show/22581/))."
+kinescope = "9xdE2ZxH3K1XdqFXp3PcLJ"
+weight = "83"
 +++
 
-{{< youtube id="HaLPSpa4z2k" >}}
+{{< kinescope id="9xdE2ZxH3K1XdqFXp3PcLJ" >}}
 
-{{< youtube id="ooB11iQxCNo" >}}
+{{< kinescope id="mZfAs8ngVyX85Kmk5Hzycu" >}}
 
-{{< youtube id="7vZzfp7yr40" >}}
+{{< kinescope id="fcpkcyfWnFwppByq3cBAxP" >}}
 
-{{< youtube id="AT8G-f05XTk" >}}
+{{< kinescope id="aMtEbgcGpqSk3rmNYTWYNA" >}}
 
-{{< youtube id="n88IEEVnXaM" >}}
+{{< kinescope id="v4FCiVL4wJaJV1zjQhF2FT" >}}
 
-{{< youtube id="lhVk4_3qsUo" >}}
+{{< kinescope id="hjSanfDUboX8PanJfbcS4Z" >}}

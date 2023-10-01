@@ -1,6 +1,6 @@
 +++
 title = "каждое имя важно"
-youtube = "yRc_9hEn1XE"
+kinescope = "gAa8wqq5eubLwckkpfiKkQ"
 more = "no"
-weight = "91"
+weight = "93"
 +++

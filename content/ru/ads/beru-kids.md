@@ -1,7 +1,7 @@
 +++
 title = "новогоднее чудо"
 description = "в том году новогоднее чудо случилось даже у взрослых."
-youtube = "FAO9iQAZ6IY"
+kinescope = "bhF9h5meEmWfFSxP7bqVLP"
 more = "no"
-weight = "94"
+weight = "90"
 +++

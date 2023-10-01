@@ -1,0 +1,3 @@
+{{- $id := .Get "id" -}}
+{{- $padding := .Get "padding" -}}
+<div class="kinescope" style="position: relative; {{ with $padding }}padding-top: {{ . }}{{ else }}padding-top: 56.25%{{ end }}; width: 100%"><iframe src="https://kinescope.io/embed/{{ $id }}" allow="autoplay; fullscreen; picture-in-picture; encrypted-media;" frameborder="0" allowfullscreen style="position: absolute; width: 100%; height: 100%; top: 0; left: 0;"></iframe></div>

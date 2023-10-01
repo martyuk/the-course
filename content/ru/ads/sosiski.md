@@ -1,6 +1,6 @@
 +++
 title = "за троих"
-youtube = "dFPJCdBt1I8"
+kinescope = "bsjSGineLELK5Sg54YSreK"
 more = "no"
-weight = "92"
+weight = "84"
 +++

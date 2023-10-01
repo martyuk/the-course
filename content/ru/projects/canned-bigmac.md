@@ -1,6 +1,6 @@
 +++
 title = "консервы из Биг Мака"
-description = "консервная банка с этикеткой «Биг Мак» хранит память об эпохе, во время которой в России работали рестораны Макдоналдс."
+description = "консервная банка с этикеткой «Биг Мак» хранит память об эпохе, во время которой в России работали рестораны Макдоналдс ([Афиша](https://web.archive.org/web/20220404153238/https://daily.afisha.ru/news/61874-obedinenie-lyubiteli-zakonservirovalo-big-mak-eto-art-proekt-posvyaschennyy-uhodyaschey-epohe/), [Собака](https://web.archive.org/web/20220404161043/http://sobaka.ru/entertainment/art/147791), [Газета.ru](https://web.archive.org/web/20220405050808/https://www.gazeta.ru/culture/news/2022/04/04/n_17522047.shtml))."
 preview = "../../../img/bigmac-1.jpg"
 weight = "5"
 +++

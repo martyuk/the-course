@@ -1,6 +1,6 @@
 +++
 title = "продуктолог"
-youtube = "4v2Tdn0vsT0"
+kinescope = "9FGtGpcJzR6PD4kGJagCzP"
 more = "no"
 weight = "89"
 +++

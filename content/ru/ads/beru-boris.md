@@ -1,12 +1,13 @@
 +++
 title = "поделки из картона"
-description = "во время самоизоляции мы учили людей собирать из доставочных коробок все, что нужно для удаленой работы."
-youtube = "FUZ4s50-1ZQ"
-weight = "95"
+description = "во время самоизоляции вместе с маркетплейсом Беру мы рассказали людям, как собрать из доставочных коробок друга, рабочий стол и замок для кота."
+kinescope = "n8DSdGbTSx17oibtvYNDga"
+padding = "177.78%"
+weight = "91"
 +++
 
-{{< youtube id="FUZ4s50-1ZQ">}}
+{{< kinescope id="n8DSdGbTSx17oibtvYNDga" padding="177.78%">}}
 
-{{< youtube id="WYBGmGufHzs">}}
+{{< kinescope id="0hmcg9QQ4GYEvVX4k9X7B6" padding="177.78%">}}
 
-{{< youtube id="H3VvxMUgmfk">}}
+{{< kinescope id="abSMh4ERhwVsx7bgYh4Lyq" padding="177.78%">}}

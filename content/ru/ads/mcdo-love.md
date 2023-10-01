@@ -1,6 +1,6 @@
 +++
-title = "радость быть с вами"
-youtube = "3PD8423ck94"
+title = "юбилей"
+kinescope = "r1YJjJguy6bMi26MavE1jN"
 more = "no"
-weight = "93"
+weight = "94"
 +++

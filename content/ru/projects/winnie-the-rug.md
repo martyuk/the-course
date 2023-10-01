@@ -1,6 +1,6 @@
 +++
 title = "шкура Винни Пуха"
-description = "ковер в виде шкуры диснеевского Винни Пуха, самого дорогого медведя в мире."
+description = "ковер в виде шкуры диснеевского Винни Пуха, самого дорогого медведя в мире ( [DTF](https://web.archive.org/web/20230306163925/https://dtf.ru/life/1673106-tvorcheskoe-obedinenie-lyubiteli-vypustilo-kovrik-v-vide-shkury-vinni-puha-v-otvet-na-uhod-disney-iz-rossii), [Афиша](https://web.archive.org/web/0/https://daily.afisha.ru/news/73643-obedinenie-lyubiteli-vypustili-kover-v-vide-shkury-vinni-puha-v-otvet-na-uhod-disney-iz-rossii/), [Собака](https://web.archive.org/web/20230327021417/https://www.sobaka.ru/lifestyle/design/163612), [Чемпионат](https://web.archive.org/web/20231001092622/https://www.championat.com/cybersport/news-5029181-v-chest-uhoda-disney-iz-rossii-vypustili-kovrik-v-vide-shkury-vinni-puha.html), [Пикабу](https://web.archive.org/web/20231001092923/https://pikabu.ru/story/konservirovannyiy_big_mak_9016018), [Лентач](https://t.me/oldlentach/69919), [Россия не Москва](https://t.me/novosti_voinaa/12381))."
 preview = "../../../img/winnie-1.jpg"
 weight = "6"
 +++

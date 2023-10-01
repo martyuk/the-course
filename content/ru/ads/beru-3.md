@@ -1,6 +1,6 @@
 +++
 title = "где-то радуется сотрудник Беру"
-youtube = "Fq95MxR6J1k"
+kinescope = "pk7bSfvJRodAtFnwuewzzW"
 more = "no"
 weight = "88"
 +++
