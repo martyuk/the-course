@@ -1,5 +1,5 @@
 +++
 menu = 'main'
-title = 'реклама'
+title = 'работа'
 weight = '2'
 +++

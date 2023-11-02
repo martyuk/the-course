@@ -4,7 +4,7 @@ title = 'автор'
 weight = '6'
 +++
 
-второй самый креативный человек в России [по версии АКАР](https://ad-peak.ru/creative/person/380246) с более, чем 100 наградами в европейских и азиатских фестивалях креативности. один из 20 людей из России, которые получили награду за креатив в D&AD, и один из 5 людей, которые выиграли гран-при Eurobest. основатель [ТО «Любители»](https://withlove.company).
+креативный директор со стратегическим мышлением и продуктовым подходом. второй самый креативный человек в России [по версии АКАР](https://ad-peak.ru/creative/person/380246) с более, чем 100 наградами в европейских и азиатских фестивалях креативности.
 
 ## опыт
 ### Publicis Groupe
@@ -90,3 +90,178 @@ _специалист в области твердого состояния ве
 — _BBDO College_ — март, 2019
 
 — _BBDO School_ — февраль, 2019
+
+### награды
+- Golden Drum — Gold
+- Golden Drum — Gold
+- Golden Drum — Bronze
+- Golden Drum — Silver
+- Golden Drum — Silver
+- Golden Drum — Shortlist
+- Golden Drum — Shortlist
+- Golden Drum — Shortlist
+- Golden Drum — Shortlist
+- Golden Drum — Shortlist
+- Effie Global — Shortlist
+- Effie Europe — Bronze
+- Eurobest — Bronze
+- Eurobest — Bronze
+- Eurobest — Shortlist
+- Eurobest — Shortlist
+- Eurobest — Grand Prix
+- Cannes Lions — Shortlist
+- Cannes Lions — Shortlist
+- One Show — Bronze
+- One Show — Shortlist
+- One Show — Shortlist
+- One Show — Shortlist
+- One Show — Shortlist
+- One Show — Shortlist
+- One Show — Shortlist
+- One Show — Merit
+- One Show — Merit
+- One Show — Merit
+- Annecy — Official Selection
+- ADCE — Gold
+- ADCE — Gold
+- ADCE — Bronze
+- ADCE — Bronze
+- ADCE — Bronze
+- ADCE — Bronze
+- ADCE — Silver
+- ADCE — Silver
+- ADCE — Silver
+- ADCE — Bronze
+- ADCE — Silver
+- D&AD — Bronze
+- Webby Awards — Shortlist
+- Webby Awards — Shortlist
+- Webby Awards — Shortlist
+- Epica — Gold
+- Epica — Bronze
+- Epica — Silver
+- Ad Stars — Bronze
+- Ad Stars — Bronze
+- Ad Stars — Bronze
+- Ad Stars — Bronze
+- Ad Stars — Silver
+- Ad Stars — Silver
+- Ad Stars — Silver
+- Ad Stars — Shortlist
+- Ad Stars — Bronze
+- Ad Stars — Silver
+- Effie — Bronze
+- Effie — Bronze
+- Effie — Shortlist
+- Effie — Gold
+- Effie — Gold
+- Effie — Shortlist
+- Effie — Shortlist
+- Cresta — Silver
+- Cresta — Silver
+- Cresta — Shortlist
+- Cresta — Shortlist
+- Cresta — Bronze
+- Cresta — Bronze
+- Cresta — Bronze
+- PHNX — Silver
+- PHNX — Gold
+- PHNX — Bronze
+- PHNX — Bronze
+- PHNX — Silver
+- PHNX — Silver
+- PHNX — Bronze
+- Caples — Shortlist
+- Caples — Shortlist
+- Caples — Shortlist
+- Caples — Shortlist
+- Caples — Bronze
+- Caples — Silver
+- Caples — Silver
+- Caples — Shortlist
+- Caples — Shortlist
+- Caples — Shortlist
+- Caples — Bronze
+- Caples — Shortlist
+- Caples — Shortlist
+- MMA — Shortlist
+- Tagline — Gold
+- Tagline — Gold
+- Tagline — Bronze
+- Sreda — Gold
+- Sreda — Shortlist
+- Sreda — Shortlist
+- Sreda — Grand Prix
+- Baikal Film Festival — Shortlist
+- Suzdal Animation Festival — Shortlist
+- ADCR — Bronze
+- ADCR — Bronze
+- ADCR — Gold
+- ADCR — Gold
+- ADCR — Gold
+- ADCR — Gold
+- ADCR — Gold
+- ADCR — Gold
+- ADCR — Bronze
+- ADCR — Silver
+- ADCR — Silver
+- ADCR — Silver
+- ADCR — Silver
+- ADCR — Gold
+- ADCR — Gold
+- ADCR — Gold
+- ADCR — Gold
+- ADCR — Bronze
+- White Square — Gold
+- White Square — Silver
+- White Square — Silver
+- White Square — Gold
+- White Square — Gold
+- White Square — Gold
+- White Square — Gold
+- White Square — Gold
+- White Square — Gold
+- White Square — Gold
+- White Square — Bronze
+- White Square — Silver
+- White Square — Silver
+- White Square — Silver
+- White Square — Silver
+- White Square — Silver
+- White Square — Silver
+- White Square — Shortlist
+- White Square — Bronze
+- White Square — Bronze
+- White Square — Silver
+- White Square — Shortlist
+- White Square — Shortlist
+- Red Apple — Silver
+- Red Apple — Bronze
+- Red Apple — Bronze
+- Red Apple — Bronze
+- Red Apple — Gold
+- Red Apple — Gold
+- Red Apple — Gold
+- Red Apple — Gold
+- Red Apple — Gold
+- Red Apple — Bronze
+- Red Apple — Bronze
+- Red Apple — Silver
+- Red Apple — Silver
+- Red Apple — Silver
+- Red Apple — Silver
+- Red Apple — Silver
+- Red Apple — Silver
+- Red Apple — Silver
+- Red Apple — Silver
+- Red Apple — Shortlist
+- Red Apple — Shortlist
+- Red Apple — Shortlist
+- Red Apple — Shortlist
+- Red Apple — Shortlist
+- Red Apple — Shortlist
+- Red Apple — Shortlist
+- Red Apple — Shortlist
+- Ad Black Sea — Bronze
+- Ad Black Sea — Silver
+- Ad Black Sea — Silver
