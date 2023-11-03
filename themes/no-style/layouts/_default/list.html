@@ -12,13 +12,18 @@
   {{ range .Pages.ByWeight.Reverse }}
 
     {{ if ne .Params.More "no" }}
-      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      <h2><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>
     {{ else }}
-      <h2>{{ .Title }}</h2>
+      <h2>{{ .Title | markdownify }}</h2>
     {{ end }}
     
     {{ if isset .Params "description" }}
       <p> {{ .Description | markdownify }} </p>
+    {{ end }}
+
+    {{ if isset .Params "button_text" }}
+        <div><a target="_blank" rel="noreferrer" {{ with .Params.ref }}href="{{.}}"{{ end }} class="btn">{{ .Params.button_text }}</a></div>
+      </div>
     {{ end }}
 
     {{ if isset .Params "preview" }}
