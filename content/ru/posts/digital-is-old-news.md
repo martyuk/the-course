@@ -17,11 +17,11 @@ description = 'маркетологи тестировали креативы и
 
 > — диджитал делает маркетинг прозрачным! теперь мы измеряем, влияние коммуникации напрямую. а что ваш маркетинг? фу!
 
-сейчас на любое сочетание букв латинского алфавита найдется своя конверсионная воронка (AAARRR, ACCA и ADEIPL). и задача продакт_ или маркетинг-менеджера эту воронку _оптимизировать_. диджитал-гуру скажут, что такой _ответственный_ подход к маркетингу, когда вы отвечаете за результат, это что-то новое, чего не было раньше. _теперь_ маркетинг не про что-то абстрактное, а про цифры и эффективность.
+сейчас на любое сочетание букв латинского алфавита найдется своя конверсионная воронка (AAARRR, ACCA и ADEIPL). и задача _продакт-_ или _маркетинг_-менеджера эту воронку _оптимизировать_. диджитал-гуру скажут, что такой _ответственный_ подход к маркетингу, когда вы отвечаете за результат, это что-то новое, чего не было раньше. _теперь_ маркетинг не про что-то абстрактное, а про цифры и эффективность.
 
 а я им отвечу, что у всех этих воронок есть одна прапрабабушка, и зовут ее AIDA (Attention → Interest → Desire → Action). а вот что писал в 1924 году человек, который ее придумал:
 
-> The time has come when advertising has, in some hands, reached the status of a science. It is based on fixed principles and is reasonably exact. The causes and effects have been analysed until they are well understood
+> The time has come when advertising has, in some hands, reached the status of a science. It is based on fixed principles and is reasonably exact. The causes and effects have been analysed until they are well understood.
 
 из этого следует следующий пункт.
 

@@ -129,12 +129,12 @@ del {
 }
 
 blockquote {
-  font-size: 1.3rem;
-  font-weight: 400;
+  font-size: 1.1rem;
+  font-weight: 500;
   border-left: solid 3px;
   padding: 0rem;
   margin: 0px;
-  margin-left: -0.6rem;
+  margin-left: 0rem;
   padding-left: 0.6rem;
 }
 
