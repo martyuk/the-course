@@ -25,19 +25,19 @@
   HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
-  from   = "/npmjs/*"
-  to     = "/npmjs/"
-  status = 200
-
-[[redirects]]
-  from = "/*"
+  from = "/"
   to = "/ru/"
   status = 302
   force = true
   conditions = {Language = ["ru"], Country = ["RU"]}
 
 [[redirects]]
-  from = "/*"
+  from = "/"
   to = "/en/"
   status = 302
   force = true
+
+[[redirects]]
+  from   = "/npmjs/*"
+  to     = "/npmjs/"
+  status = 200
