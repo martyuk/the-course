@@ -1,8 +1,7 @@
 baseURL = 'http://turbo.martyuk.com/'
 theme = 'no-style'
 
-defaultContentLanguage = 'ru'
-defaultContentLanguageInSubdir = true
+
 [languages]
   [languages.ru]
     contentDir = 'content/ru'
