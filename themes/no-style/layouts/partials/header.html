@@ -12,5 +12,5 @@
         {{ range .Site.Menus.main.ByWeight }}
           <div><a class="pages" href="{{ .URL | relURL }}">{{ .Name }}</a></div>
         {{ end }}
-      <!-- <div id="lang-switcher" style="object-position: top;">{{ partial "language_switcher.html" . }}</div> -->
+      <div id="lang-switcher" style="object-position: top;">{{ partial "language_switcher.html" . }}</div>
     </div>

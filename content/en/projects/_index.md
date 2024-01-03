@@ -1,5 +1,5 @@
 +++
 menu = 'main'
 title = 'projects'
-weight = '2'
+weight = '3'
 +++

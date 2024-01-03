@@ -1,23 +1,29 @@
 +++
-title = "canned Big Mac"
-description = "a tin can with a Big Mac label keeps alive the memory of the era when McDonald's restaurants operated in Russia."
+title = "консервы из Биг Мака"
+description = "консервная банка с этикеткой «Биг Мак» хранит память об эпохе, во время которой в России работали рестораны Макдоналдс ([Афиша](https://web.archive.org/web/20220404153238/https://daily.afisha.ru/news/61874-obedinenie-lyubiteli-zakonservirovalo-big-mak-eto-art-proekt-posvyaschennyy-uhodyaschey-epohe/), [Собака](https://web.archive.org/web/20220404161043/http://sobaka.ru/entertainment/art/147791), [Газета.ru](https://web.archive.org/web/20220405050808/https://www.gazeta.ru/culture/news/2022/04/04/n_17522047.shtml))."
 preview = "../../../img/bigmac-1.jpg"
+
+button_text = "1900₽"
+ref = "https://t.me/martyuk/"
+
 weight = "5"
 +++
 
 ![](../../../img/bigmac-1.jpg)
 
-for many of us, McDonald's represents an era that started with the first restaurant on Pushkinskaya Street and came to an end with the "suspension of operations". we've encapsulated the essence of that time in this artifact: the "canned Big Mac".
+для многих из нас Макдоналдс стал символом эпохи. она началась с открытия первого ресторана и закончилась «приостановкой деятельности».
 
 ![](../../../img/bigmac-2.jpg)
+
+мы законсервировали память об эпохе в артефакте консервы из Биг Мак»а.
 
 ![](../../../img/bigmac-3.jpg)
 
 ![](../../../img/bigmac-4.jpg)
 
-> ingredients: absence, beef patties, Big Mac sauce, pickle slices, lettuce, onions, and buns not included.
+> состав: две мясных котлеты гриль, специальный соус сыр, огурцы, салат, лук, булочки с кунжутом отсутствуют.
 >
-> nutritional value per 100 grams: emptiness, pain, and little bit of sorrow.
+> пищевая ценность на 100 грамм: пустота, боль и немного светлой памяти.
 
 ![](../../../img/bigmac-5.jpg)
 

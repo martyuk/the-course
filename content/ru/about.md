@@ -4,8 +4,6 @@ title = 'автор'
 weight = '6'
 +++
 
-пишите в [телеграм](https://t.me/martyuk) или на [почту](mailto:hi@martyuk.com).
-
 ## опыт
 
 ### Publicis Groupe, креативный директор

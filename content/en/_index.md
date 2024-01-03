@@ -1,33 +1,14 @@
 +++
 menu = 'main'
-title = 'index'
-weight ='1'
+title = 'main'
+weight = '1'
 +++
 
 # Petr Martyuk
 
-physicist by education, creative person by nature, and creative director by trade. award winner, squash player, and proud author of several telegram channels.
+Engineer-physicist by education and creative director by profession, the second most creative person in Russia [according to AKAR](https://ad-peak.ru/creative/person/380246) with more than 100 awards in European and Asian festivals. Petr launches his [own projects](/ru/projects), develops communication [for brands](/ru/ads) and from time to time writes about himself in the third person.
 
-Petr launches his own projects, develops advertising campaigns and brand platforms. from time to time Petr writes about himself in the third person.
+![i'm on a horse](/../../img/im-on-a-horse.jpeg)
+i'm on a horse.
 
-## [Birds Records](/ru/projects/birds-records/)
-
-together with Yandex.Music, WWF and Univsersal, we created the first (_and the world's only_) music label that monetizes bird voices.
-
-{{< video link="http://universe.martyuk.com/video/birds-records.mp4" time="1" >}}
-
-[more](/en/projects/birds-records/)
-
-## Perfect Search
-
-together with pet food brand Perfect Fit, we bought the most unpopular search keywords to find and reward the most responsible pet owners.
-
-{{< video link="http://universe.martyuk.com/video/perfect-search.mp4" >}}
-
-## [canned Big Mac](/ru/projects/canned-bigmac/)
-
-a tin can with a Big Mac label keeps alive the memory of the era when McDonald's restaurants operated in Russia.
-
-![](../../../img/bigmac-1.jpg)
-
-[more](/en/projects/canned-bigmac/)
+if something comes to mind, i do have a [Telegram](https://t.me/martyuk) and an [Emal](mailto:hi@martyuk.com).
