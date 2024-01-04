@@ -77,3 +77,179 @@ _specialist in solid state physics_. my diploma was entitled "Spectroscopy of ph
 ### how to pitch ideas to IT companies
 — _BBDO College_ — March, 2019
 — _BBDO School_ — February, 2019
+
+
+## awards
+- Golden Drum — Gold
+- Golden Drum — Gold
+- Golden Drum — Bronze
+- Golden Drum — Silver
+- Golden Drum — Silver
+- Golden Drum — Shortlist
+- Golden Drum — Shortlist
+- Golden Drum — Shortlist
+- Golden Drum — Shortlist
+- Golden Drum — Shortlist
+- Effie Global — Shortlist
+- Effie Europe — Bronze
+- Eurobest — Bronze
+- Eurobest — Bronze
+- Eurobest — Shortlist
+- Eurobest — Shortlist
+- Eurobest — Grand Prix
+- Cannes Lions — Shortlist
+- Cannes Lions — Shortlist
+- One Show — Bronze
+- One Show — Shortlist
+- One Show — Shortlist
+- One Show — Shortlist
+- One Show — Shortlist
+- One Show — Shortlist
+- One Show — Shortlist
+- One Show — Merit
+- One Show — Merit
+- One Show — Merit
+- Annecy — Official Selection
+- ADCE — Gold
+- ADCE — Gold
+- ADCE — Bronze
+- ADCE — Bronze
+- ADCE — Bronze
+- ADCE — Bronze
+- ADCE — Silver
+- ADCE — Silver
+- ADCE — Silver
+- ADCE — Bronze
+- ADCE — Silver
+- D&AD — Bronze
+- Webby Awards — Shortlist
+- Webby Awards — Shortlist
+- Webby Awards — Shortlist
+- Epica — Gold
+- Epica — Bronze
+- Epica — Silver
+- Ad Stars — Bronze
+- Ad Stars — Bronze
+- Ad Stars — Bronze
+- Ad Stars — Bronze
+- Ad Stars — Silver
+- Ad Stars — Silver
+- Ad Stars — Silver
+- Ad Stars — Shortlist
+- Ad Stars — Bronze
+- Ad Stars — Silver
+- Effie — Bronze
+- Effie — Bronze
+- Effie — Shortlist
+- Effie — Gold
+- Effie — Gold
+- Effie — Shortlist
+- Effie — Shortlist
+- Cresta — Silver
+- Cresta — Silver
+- Cresta — Shortlist
+- Cresta — Shortlist
+- Cresta — Bronze
+- Cresta — Bronze
+- Cresta — Bronze
+- PHNX — Silver
+- PHNX — Gold
+- PHNX — Bronze
+- PHNX — Bronze
+- PHNX — Silver
+- PHNX — Silver
+- PHNX — Bronze
+- Caples — Shortlist
+- Caples — Shortlist
+- Caples — Shortlist
+- Caples — Shortlist
+- Caples — Bronze
+- Caples — Silver
+- Caples — Silver
+- Caples — Shortlist
+- Caples — Shortlist
+- Caples — Shortlist
+- Caples — Bronze
+- Caples — Shortlist
+- Caples — Shortlist
+- MMA — Shortlist
+- Tagline — Gold
+- Tagline — Gold
+- Tagline — Bronze
+- Sreda — Gold
+- Sreda — Shortlist
+- Sreda — Shortlist
+- Sreda — Grand Prix
+- Baikal Film Festival — Shortlist
+- Suzdal Animation Festival — Shortlist
+- ADCR — Bronze
+- ADCR — Bronze
+- ADCR — Gold
+- ADCR — Gold
+- ADCR — Gold
+- ADCR — Gold
+- ADCR — Gold
+- ADCR — Gold
+- ADCR — Bronze
+- ADCR — Silver
+- ADCR — Silver
+- ADCR — Silver
+- ADCR — Silver
+- ADCR — Gold
+- ADCR — Gold
+- ADCR — Gold
+- ADCR — Gold
+- ADCR — Bronze
+- White Square — Gold
+- White Square — Silver
+- White Square — Silver
+- White Square — Gold
+- White Square — Gold
+- White Square — Gold
+- White Square — Gold
+- White Square — Gold
+- White Square — Gold
+- White Square — Gold
+- White Square — Bronze
+- White Square — Silver
+- White Square — Silver
+- White Square — Silver
+- White Square — Silver
+- White Square — Silver
+- White Square — Silver
+- White Square — Shortlist
+- White Square — Bronze
+- White Square — Bronze
+- White Square — Silver
+- White Square — Shortlist
+- White Square — Shortlist
+- Red Apple — Silver
+- Red Apple — Bronze
+- Red Apple — Bronze
+- Red Apple — Bronze
+- Red Apple — Gold
+- Red Apple — Gold
+- Red Apple — Gold
+- Red Apple — Gold
+- Red Apple — Gold
+- Red Apple — Bronze
+- Red Apple — Bronze
+- Red Apple — Silver
+- Red Apple — Silver
+- Red Apple — Silver
+- Red Apple — Silver
+- Red Apple — Silver
+- Red Apple — Silver
+- Red Apple — Silver
+- Red Apple — Silver
+- Red Apple — Shortlist
+- Red Apple — Shortlist
+- Red Apple — Shortlist
+- Red Apple — Shortlist
+- Red Apple — Shortlist
+- Red Apple — Shortlist
+- Red Apple — Shortlist
+- Red Apple — Shortlist
+- Ad Black Sea — Bronze
+- Ad Black Sea — Silver
+- Ad Black Sea — Silver
