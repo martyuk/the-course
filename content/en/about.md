@@ -5,27 +5,27 @@ weight = '5'
 +++
 
 ## experience
-### Publicis Groupe
+### Publicis Groupe, creative director
 - have been making puns with Beeline at the national level, creating banners at non-national levels, and rebooting legacy brands in between.
 - _clients_: Beeline, Samokat, Moskvich, VTB.
 
-### Profi
+### Profi, creative director
 - set up a process for developing performance assets with the help of the design team. now, everything is produced in-house.
 - launched an ongoing course on creativity to help teams come up with ideas, better formulate tasks, and find common ground.
 
-### Aviasales
+### Aviasales, head of brand at new products
 - have been launching new products and developing a unified brand platform to integrate the new with the old.
 
-### SberDevices
+### SberDevices, head of brand
 - have been creating a brand for Salute, Sber's [virtual assistants](https://www.sber.ru/salute/).
 - have been developing a brand platform, planning communication, and setting up a process for interaction with the product team.
 
-### BBDO
+### BBDO, copywriter + experience architect
 - have been helping beloved clients achieve their business goals through communication; responsible for the creative product from the idea to the final execution.
 - together with the team, have been developing an internal startup on product consulting, learning how to solve communication problems through product innovation.
 - _clients_: Beru ([Bloomberg](https://www.bloomberg.com/news/articles/2018-10-24/the-google-of-russia-takes-new-stab-at-being-its-amazon-too), [RBC](https://www.rbc.ru/finances/27/04/2018/5ae332279a79477da3f810a1)), Yandex.Market, Pedigree, Dodo Pizza, and Yandex.
 
-### Leo Burnett
+### Leo Burnett, copywriter
 - have been developing most of McDonald's communications: launching new burgers and product categories; creating digital campaigns, shooting commercials, and occasionally starring in them.
 - _clients_: McDonald's and ABI Product.
 
