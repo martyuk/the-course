@@ -1,12 +1,12 @@
 +++
-title = "большая реклама"
-description = "вместе с Авиасейлс мы разместили рекламу так, чтобы она была видна только из окна самолета, где ее увидит наша самая целевая аудитория."
+title = "the big OOH"
+description = "together with Aviasales, we set up an ad that could only be seen from an airplane window, directly reaching our most targeted audience."
 kinescope = "4f59QFTj5GuUSbpsctEQMR"
 padding = "100%"
 weight = "95"
 +++
 
-вместе с Авиасейлс мы разместили рекламу так, чтобы она была видна только из окна самолета, где ее увидит наша самая целевая аудитория.
+together with Aviasales, we set up an ad that could only be seen from an airplane window, directly reaching our most targeted audience.
 
 {{< kinescope id="4f59QFTj5GuUSbpsctEQMR" padding="100%">}}
 

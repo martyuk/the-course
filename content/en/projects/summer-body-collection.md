@@ -1,9 +1,9 @@
 +++
 title = "summer body collection SS'22"
-description = "переводные татуировки в виде логотипов сделают ваш образ модным и без всякой одежды."
+description = "temporary logo tattoos help you look fashionable even when you're naked."
 preview = "../../../img/logo-tattoo-1.png"
 
-button_text = "от 19 000₽"
+button_text = "starting at $240"
 ref = "https://t.me/martyuk/"
 
 weight = "4"
@@ -11,7 +11,7 @@ weight = "4"
 
 ![](../../../img/logo-tattoo-2.png)
 
-модным человека делают не столько вещи, сколько логотипы на этих вещах. поэтому в нашей летней коллекции мы убрали все ненужное (вещи), и оставили самое важное (логотипы). переводные татуировки с логотипами сделают ваш образ модным и без всякой одежды.
+it's not so much the clothes that make the person look fashionable as the logos on those clothes. in our summer collection, we've removed the unessential (clothes), and kept what's really important (logos).
 
 ![](../../../img/logo-tattoo-3.png)
 

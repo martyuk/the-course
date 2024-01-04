@@ -1,6 +1,6 @@
 +++
 title = "perfect search"
-description = "вместе с брендом кормов для животных Perfect Fit мы купили самые редкие поисковые запросы, чтобы найти и наградить самых ответственных питомовладельцев."
+description = "together with the pet food brand Perfect Fit, we acquired the rarest search keywords to identify and reward the most responsible pet owners."
 kinescope = "76mNTpn5oJjEPrVNPd1kbc"
 more = "no"
 weight = "98"

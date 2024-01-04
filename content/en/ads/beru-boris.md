@@ -1,6 +1,6 @@
 +++
-title = "поделки из картона"
-description = "во время самоизоляции вместе с маркетплейсом Беру мы рассказали людям, как собрать из доставочных коробок друга, рабочий стол и замок для кота."
+title = "cardboard crafts"
+description = "during the COVID lockdown, in collaboration with marketplace Beru, we taught people how to transform delivery boxes into friends, desks, and cat castles."
 kinescope = "n8DSdGbTSx17oibtvYNDga"
 padding = "177.78%"
 weight = "91"

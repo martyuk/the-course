@@ -1,5 +1,5 @@
 +++
-title = "нельзя просто так взять"
+title = "you can't just"
 kinescope = "pchCCXfx1iwavK944uHUpD"
 weight = "85"
 +++

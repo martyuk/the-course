@@ -1,16 +1,16 @@
 +++
-title = "год святого Валентина"
-description = "набор из 12 валентинок на каждый месяц, чтобы дарить любовь всегда, а не только 14 февраля."
+title = "Valentine's Year"
+description = "a set of 12 Valentine's cards, one for each month, so you can express love all year round, not just on February 14."
 preview = "../../../img/love-you-1.jpg"
 
-button_text = "раскупили"
+button_text = "$39"
 
 weight = "3"
 +++
 
-в году 365 дней, но любви достался только один — 14 февраля. большие бренды придумали этот праздник, чтобы у нас был еще один повод покупать и дарить подарки. но любовь — это не подарки раз в год. любовь проявляется в мелочах, заботе и внимании в течение всего года.
+there are 365 days in the year, yet only one, February 14th, is designated for love. big brands invented this holiday as another occasion for us to buy gifts. but love is not a gift you give once a year. love is about the little things, daily acts of kindness throughout the year.
 
-с помощью «года святого Валентина» мы показываем, что любовь важно дарить всегда, а не только 14 февраля.
+Valentine's Year highlights the importance of celebrating love every day, not just on February 14th.
 
 ![](../../../img/love-you-2.jpg)
 
@@ -20,7 +20,7 @@ weight = "3"
 
 ![](../../../img/love-you-5.jpg)
 
-### художники:
+### art by:
 
 - [@ramenyanen](https://www.instagram.com/ramenyanen/)
 - [@slaves_of_love_](https://www.instagram.com/slaves_of_love_/)
