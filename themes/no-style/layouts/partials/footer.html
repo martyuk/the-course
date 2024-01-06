@@ -2,7 +2,7 @@
       {{ partial "foot_custom.html" . }}
       {{ with .Site.Params.footer }} {{ end }}
       <hr/>
-      © Петр Мартюк, {{ now.Format "2006" | markdownify }}
+      © {{ T "author" }}, {{ now.Format "2006" | markdownify }}
     </footer>
   </body>
 </html>
