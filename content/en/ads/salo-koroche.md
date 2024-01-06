@@ -1,6 +1,6 @@
 +++
 title = "memorial plaques"
-description = "for the launch of original travel guides from Aviasales, we marked locations with commemorative plaques where trendy influencers made their mark. ([Бумага](https://web.archive.org/web/20211208160628/https://paperpaper.ru/papernews/2021/10/28/v-shesti-gorodah-rossii-poyavilis-sekr/), [SRSLY](https://web.archive.org/web/20211117022719/https://srsly.ru/article/show/14881/), [Кубань 24](https://www.youtube.com/watch?v=UebvUv6RIqo))."
+description = "for the launch of original travel guides from Aviasales, we marked locations with commemorative plaques where trendy influencers made their mark. ([Bumaga](https://web.archive.org/web/20211208160628/https://paperpaper.ru/papernews/2021/10/28/v-shesti-gorodah-rossii-poyavilis-sekr/), [SRSLY](https://web.archive.org/web/20211117022719/https://srsly.ru/article/show/14881/), [Kuban 24](https://www.youtube.com/watch?v=UebvUv6RIqo))."
 kinescope = "uRnN7Dv74s8ttEgRfMWKKR"
 weight = "96"
 +++
