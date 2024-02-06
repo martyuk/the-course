@@ -1,4 +1,4 @@
-baseURL = 'http://turbo.martyuk.com/'
+baseURL = 'http://martyuk.com/'
 theme = 'no-style'
 
 defaultContentLanguage = 'en'
@@ -10,7 +10,7 @@ defaultContentLanguageInSubdir = true
     languageCode = 'ru-RU'
     languageDirection = 'ltr'
     languageName = 'Russian'
-    title = 'турбокурс по турбокреативу'
+    title = 'Петр Мартюк'
     weight = 1
     author = 'Петр Мартюк'
   [languages.en]
@@ -19,7 +19,7 @@ defaultContentLanguageInSubdir = true
     languageCode = 'en-US'
     languageDirection = 'ltr'
     languageName = 'English'
-    title = 'turbocourse on turbocreative'
+    title = 'Petr Martyuk'
     weight = 2
     author = 'Petr Martyuk'
 
