@@ -11,4 +11,4 @@ an engineer-physicist by education and a creative director by profession. Petr i
 ![i'm on a horse](/../../img/im-on-a-horse.jpeg)
 i'm on a horse.
 
-if something comes to mind, i do have a [Telegram](https://t.me/martyuk) and an [Emal](mailto:hi@martyuk.com).
+if something comes to mind, i do have a [Telegram](https://t.me/martyuk) and an [Email](mailto:hi@martyuk.com).
