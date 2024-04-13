@@ -5,7 +5,11 @@ weight = '5'
 +++
 
 ## experience
-### Publicis Groupe, creative director
+
+### Friends, creative director
+- _clients_: М.Видео-Эльдорадо.
+
+### Publicis Groupe (RoRe), creative director
 - have been making puns with Beeline at the national level, creating banners at non-national levels, and rebooting legacy brands in between.
 - _clients_: Beeline, Samokat, Moskvich, VTB.
 
