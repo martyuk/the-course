@@ -1,9 +1,6 @@
-{{ if .Site.IsMultiLingual }}
-  {{ range $.Translations }}
-      {{ if eq .Language.LanguageName "Russian" }}
-        <a title="russian" href="{{ .Permalink }}">🇷🇺</a> / <span title="english">🇬🇧</span>
-      {{ else }}
-        <span title="russian">🇷🇺</span> / <a title="english" href="{{ .Permalink }}">🇬🇧</a>
-      {{ end }}
-  {{ end }}
+{{ $rUrl := substr .Page.RelPermalink 4 }}
+{{ if eq .Language.LanguageName "Russian" }}
+  🇷🇺 / <a href="/en/{{ $rUrl }}">🇬🇧</a>
+{{ else }}
+  <a href="/ru/{{ $rUrl }}">🇷🇺</a> / 🇬🇧
 {{ end }}
