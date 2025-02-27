@@ -6,6 +6,10 @@ weight = '6'
 
 ## опыт
 
+### креативная консультация Мартюка
+- придумываю креатив для брендов и агентств.
+- запускаю собственные проекты ([мармеладзе](https://web.archive.org/web/20250227105740/https://www.pravilamag.ru/news/offtop/22-02-2025/743345-marmeladze-v-rossii-poyavyatsya-marmeladnye-mishki-pohojie-na-valeriya-meladze/), [консервированный Биг Мак](https://web.archive.org/web/20220404153238/https://daily.afisha.ru/news/61874-obedinenie-lyubiteli-zakonservirovalo-big-mak-eto-art-proekt-posvyaschennyy-uhodyaschey-epohe/), [шкура Винни Пуха](https://web.archive.org/web/0/https://daily.afisha.ru/news/73643-obedinenie-lyubiteli-vypustili-kover-v-vide-shkury-vinni-puha-v-otvet-na-uhod-disney-iz-rossii/)).
+
 ### Friends, креативный директор
 - _клиенты_: М.Видео-Эльдорадо, Брусника, Welldrink.
 
