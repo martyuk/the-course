@@ -4,8 +4,8 @@ description = "current design for 2024."
 preview = "../../../img/trump-cap-1.jpg"
 weight = "7"
 
-button_text = "$34"
-ref = "https://t.me/martyuk/"
+button_text = "sold out"
+ref = "https://t.me/martyukgroup/"
 
 +++
 

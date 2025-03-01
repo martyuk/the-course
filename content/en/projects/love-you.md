@@ -3,7 +3,7 @@ title = "Valentine's Year"
 description = "a set of 12 Valentine's cards, one for each month, so you can express love all year round, not just on February 14."
 preview = "../../../img/love-you-1.jpg"
 
-button_text = "$39"
+button_text = "sold out"
 
 weight = "3"
 +++

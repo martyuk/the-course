@@ -3,8 +3,8 @@ title = "summer body collection SS'22"
 description = "temporary logo tattoos help you look fashionable even when you're naked."
 preview = "../../../img/logo-tattoo-1.png"
 
-button_text = "starting at $240"
-ref = "https://t.me/martyuk/"
+button_text = "sold out"
+ref = "https://t.me/martyukgroup/"
 
 weight = "4"
 +++

@@ -3,8 +3,8 @@ title = "canned Big Mac"
 description = "a tin can labeled Big Mac keeps alive the memory of the era when McDonald's was present in Russia. ([Afisha](https://web.archive.org/web/20220404153238/https://daily.afisha.ru/news/61874-obedinenie-lyubiteli-zakonservirovalo-big-mak-eto-art-proekt-posvyaschennyy-uhodyaschey-epohe/), [Sobaka](https://web.archive.org/web/20220404161043/http://sobaka.ru/entertainment/art/147791), [Gazeta.ru](https://web.archive.org/web/20220405050808/https://www.gazeta.ru/culture/news/2022/04/04/n_17522047.shtml))."
 preview = "../../../img/bigmac-1.jpg"
 
-button_text = "$24"
-ref = "https://t.me/martyuk/"
+button_text = "sold out"
+ref = "https://t.me/martyukgroup/"
 
 weight = "5"
 +++

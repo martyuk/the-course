@@ -3,8 +3,8 @@ title = "summer body collection SS'22"
 description = "переводные татуировки в виде логотипов сделают ваш образ модным и без всякой одежды."
 preview = "../../../img/logo-tattoo-1.png"
 
-button_text = "от 19 000₽"
-ref = "https://t.me/martyuk/"
+button_text = "раскупили"
+ref = "https://t.me/martyukgroup/"
 
 weight = "4"
 +++
